@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/laravel-vicflora/routes/api.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Models/ImageModel.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Http/Middleware/Cors.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/resources/views/api.blade.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Http/Controllers/API/ImageController.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Transformers/ImageTransformer.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Http/Controllers/API/ApiController.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Transformers/OccurrenceTransformer.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Transformers/ImageAccessPointTransformer.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Entities/Vocab.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Entities/Image/Feature.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Http/Kernel.php</file>
+            <file>file:/C:/wamp64/www/laravel-vicflora/app/Transformers/ImageFeatureTransformer.php</file>
+        </group>
+    </open-files>
+</project-private>
